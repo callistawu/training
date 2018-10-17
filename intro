@@ -2,7 +2,7 @@
 <html lang="en_us">
 
 <head>
-<title>Hi</title>
+  <title>Hi</title>
 </head>
 
 <body>
@@ -26,7 +26,7 @@
 </table>
 
 <footer>teehee foot</footer>
-<div>for when no other element fits - block level</div>
+<div>block level - or when no other element fits</div>
 <span>inline</span>
 
 <a href="dailybruin.com">a link!</a>
