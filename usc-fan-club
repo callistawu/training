@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>USC Fan Club at UCLA</title>
+</head>
+<body>
+  <hi>USC Fan Club at UCLA</hi>
+  <div class='slogan'>fight on!</div>
+  <nav class='nav-main'>
+    <ul>
+      <li><a class='nav-main__active' href='#'>Home</a></li>
+      <li><a href='#'>Contact us</a></li>
+      <li><a href='#'>Donate</a></li>
+    </ul>
+  </nav>
+  <hr  />
+  <h2>Upcoming Events</h2>
+  <ol>
+    <li>Beat LA Bonfire</li>
+    <li>USC - UCLA Football Game on November 17</li>
+  </ol>
+  
+  <h2>meet the team</h2>
+  <img src='https://us.glasdon.com/images/homepage_tiles/mobile/GINC-Trash-Cans-Homepage.jpg'
+       alt="snek">
+       
+  <footer>
+    <spac class='copyright'>(c) timmy troj 1919</span>
+  </footer>
