@@ -1,6 +1,6 @@
-*daily bruin online training*
+**daily bruin online training**
 
-help me idk what's happening
+_help me idk what's happening_
 
 october 16
 october 20
