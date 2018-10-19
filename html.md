@@ -1,10 +1,14 @@
 # intro to html
 
 start by telling the interwebs what ur doin: <br>
-`<!DOCTYPE html>`
+```
+<!DOCTYPE html>
+```
 
 then what language you're writing in: <br>
-`<html lang="en_us">`
+```
+<html lang="en_us">
+```
 
 the head looks like dis: <br>
 **title** is for what text you want to show up on the browser tab
@@ -14,13 +18,24 @@ the head looks like dis: <br>
 </head>
 ```
 
+the hierarchy of headers goes like dis: <br>
+```
+<h1>
+<h2>
+<h3>
+```
+
 and the body starts with dis: <br>
-`<body>`
+```
+<body>
+```
 
 here are things you can do with text: <br>
-`<p>hellow world! this is for a paragraph break</p>` <br>
-`<strong>this makes something bold!</strong>` <br>
-`<i>and this is for italics</i>` <br>
+```
+<p>hellow world! this is for a paragraph break</p>
+<strong>this makes something bold!</strong>
+<i>and this is for italics</i>
+```
 
 do this for listing: <br>
 ```
@@ -43,7 +58,9 @@ and this is how you make tables! apparently you shouldn't use tables tho lol
 ```
 
 for footers: <br>
-`<footer>teehee foot</footer>`
+```
+<footer>teehee foot</footer>
+```
 
 for dividers/divisions/no one really knows and spans: <br>
 ```
