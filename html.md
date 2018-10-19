@@ -28,7 +28,7 @@
 </table>
 
 <footer>teehee foot</footer>
-<div>block level - or when no other element fits</div>
+<div>block level (for when no other element fits)</div>
 <div class "explainer explainer"
            id="header>
 <span>inline</span>
