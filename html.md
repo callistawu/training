@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+# intro to html
+
+```<!DOCTYPE html>
 <html lang="en_us">
 
 <head>
@@ -38,4 +40,4 @@
 <a href="https://daringfireball.net/projects/markdown/dingus">use this to convert things and see what they look like in code</a>
 
 </body>
-</html>
+</html>```
