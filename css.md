@@ -5,7 +5,8 @@ selector // property // color <br>
 div_____.explainer <br>
 .explainer: hover{ } <br>
 
-```<body>
+```
+<body>
   <div class='explainer'>
     <div>
       <div class='explainer-large'></div>
