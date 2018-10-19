@@ -1,6 +1,6 @@
 # intro to html
 
-start by telling the interwebs what ur doin with: <br>
+start by telling the interwebs what ur doin: <br>
 `<!DOCTYPE html>`
 
 then what language you're writing in: <br>
