@@ -1,4 +1,4 @@
-#**daily bruin online training**
+# **daily bruin online training**
 
 _help me idk what's happening_
 
