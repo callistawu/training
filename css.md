@@ -14,6 +14,6 @@ div_____.explainer <br>
 </body>
 ```
 
-div.explainer is more specific than .explainer <br>
-but you can also use !important <br>
-the ; is v important in css <br>
+`div.explainer` is more specific than `.explainer` <br>
+but you can also use `!important` <br>
+the `;` is v important in css <br>
