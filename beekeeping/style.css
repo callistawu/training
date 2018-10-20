@@ -1,0 +1,85 @@
+* {
+  font-family: 'Roboto';
+  color: #333;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(235,230,146);
+  background: linear-gradient(180deg, rgba(235,230,146,1) 0%, rgba(235,224,133,1) 27%, rgba(255,147,0,1) 100%);
+}
+
+h1 {
+  color: white;
+  font-style: italic;
+  text-shadow: 0 0 0px rgba(0,0,0,0.25);
+  text-align: center;
+}
+
+.slogan {
+  text-align: center;
+  font-style: italic;
+}
+
+.nav-main {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  background-color: #333;
+}
+
+.nav-main > li {
+  margin: 0;
+  display: inline-block;
+}
+
+.nav-main a {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  transition: all 0.2s;
+}
+
+.nav-main a:hover {
+  background-color: white;
+  color: #333;
+}
+
+.content {
+  margin: 20px;
+}
+
+.bee {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid white;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+}
+
+.bee {
+  width: calc(400px/2)
+  float: left;
+  position: relative;
+  padding: 10px 20px;
+}
+
+.bee > span {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+}
+
+.bee > img {
+  width: 100%
+}
+
+.footer {
+  padding-top: 20px;
+  clear: both;
+  text-align: center;
+  margin-bottom: 2px;
+}
