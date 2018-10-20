@@ -3,8 +3,8 @@
 _help me idk what's happening_
 
 
-october 16
+**october 16**: html, css
 
-october 20
+**october 20**: html, css, resumes/hiring, javascript
 
-october 27
+**october 27**
