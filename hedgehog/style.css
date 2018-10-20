@@ -1,0 +1,91 @@
+* {
+  font-family: 'Montserrat';
+  color: #333;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+background: rgb(95,91,172);
+background: linear-gradient(180deg, rgba(95,91,172,1) 0%, rgba(170,223,244,1) 100%);
+}
+
+h1 {
+  color: white;
+  font-style: italic;
+  text-shadow: 0 0 0px rgba(0,0,0,0.25);
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+}
+
+.slogan {
+  text-align: center;
+  font-style: italic;
+}
+
+.nav-main {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  background-color: white;
+}
+
+.nav-main > li {
+  margin: 0;
+  display: inline-block;
+}
+
+.nav-main a {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  padding: 10px;
+  transition: all 0.2s;
+}
+
+.nav-main a:hover {
+  background-color: #b0bad2;
+  color: #333;
+}
+
+.content {
+  margin: 20px;
+}
+
+.hog {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style: none;
+  padding: 0;
+  overflow: hidden;
+}
+
+.hog {
+  width: calc(400px/2)
+  float: left;
+  position: relative;
+  padding: 10px 20px;
+}
+
+.hog > span {
+  position: absolute;
+  top: 25px;
+  right: 45px;
+  color: white
+}
+
+.hog > img {
+  width: 100%
+}
+
+.footer {
+  padding-top: 20px;
+  clear: both;
+  text-align: center;
+  margin-bottom: 2px;
+}
