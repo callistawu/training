@@ -57,7 +57,7 @@ true
 === for comparison <br>
 == don't use at all <br>
 
-##if statements 
+## if statements 
 if (1 === 1) { console.long('hello') } <br>
 hello
 
